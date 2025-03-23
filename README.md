@@ -15,7 +15,7 @@ Descubre cómo crear un **botón animado** con efectos sorprendentes utilizando 
 
 🔹 **Inspirado en** [@Bedimcode](https://www.youtube.com/@Bedimcode).
 
-💾 **CODE ATD: Código disponible en GitHub** → [Repositorio en GitHub]([https://github.com/CODEATD/creative-button)
+💾 **Código disponible en GitHub** → [CODEATD](https://github.com/CODEATD/creative-button)
 
 🌍 Ejemplo de uso en vivo (proyecto en desarrollo)→ [Rotaract 4370](https://rotaract4370.org/)
 
