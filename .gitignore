@@ -1,0 +1,18 @@
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales de editores
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignorar carpetas específicas de compilación o dependencias (si aplican)
+node_modules/
+dist/
+build/
+
+# Ignorar configuraciones locales de IDE
+.vscode/
+.idea/
