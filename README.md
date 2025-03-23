@@ -17,7 +17,9 @@ Descubre cómo crear un **botón animado** con efectos sorprendentes utilizando 
 
 💾 **Código disponible en GitHub** → [CODEATD](https://github.com/CODEATD/creative-button)
 
-🌍 Ejemplo de uso en vivo (proyecto en desarrollo)→ [Rotaract 4370](https://rotaract4370.org/)
+🌍 Ejemplo de uso en un proyecto en etapada de desarrollo→ [Rotaract 4370](https://rotaract4370.org/)
+
+🚀 Prueba la demo en vivo: [Live demo](https://creative-button-1.netlify.app/)
 
 ![Example img](/example.jpeg)
 
